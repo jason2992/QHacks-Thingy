@@ -1,1 +1,25 @@
 sfsoinfsf
+
+git config --global user.name "name"
+git config --global user.email "email"
+
+cd (directory) 		(starts in users)
+cd source
+
+git clone (URL) 	creates a repository/copies a repository
+
+git status 		shows files found within repository
+
+git add testfile.txt  	(use "\ " to identify a space)
+
+git commit -m "your message"	(adds a message)
+
+git push origin master 		(sends it into github)
+
+git pull 			(pulls the changes from github)
+
+
+
+
+
+
