@@ -18,6 +18,7 @@ git push origin master 		(sends it into github)
 
 git pull 			(pulls the changes from github)
 
+I AM A COOKIE
 
 
 
